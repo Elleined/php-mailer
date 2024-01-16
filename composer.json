@@ -1,0 +1,17 @@
+{
+    "name": "elleined/php-mailer",
+    "description": "PHP mailer using composer to send gmail",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Elleined\\PhpMailer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elleined",
+            "email": "demadegu@gmail.com"
+        }
+    ],
+    "require": {}
+}
